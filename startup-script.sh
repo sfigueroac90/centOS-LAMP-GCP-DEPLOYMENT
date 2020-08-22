@@ -40,5 +40,8 @@ source ~/.zshrc
 #install git
 sudo yum install -y git
 
+#install nano
+sudo yum -y install nano
+
 #Ejecute una vez conecte al centos
 #sudo mysql_secure_installation
