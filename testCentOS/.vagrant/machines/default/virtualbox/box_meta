@@ -1,1 +1,1 @@
-{"name":"centos/7","version":"2004.01","provider":"virtualbox","directory":"boxes/centos-VAGRANTSLASH-7/2004.01/virtualbox"}
+{"name":"centos/8","version":"1905.1","provider":"virtualbox","directory":"boxes/centos-VAGRANTSLASH-8/1905.1/virtualbox"}
