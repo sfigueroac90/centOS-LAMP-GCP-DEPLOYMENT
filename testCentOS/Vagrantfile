@@ -8,3 +8,6 @@ end
 Vagrant.configure("2") do | config |
   config.vm.provision "file", source: "../startup-script.sh", destination: "startup-script.sh"
 end
+Vagrant.configure("2") do | config |
+  config.vm.provision "file", source: "../set-user.sh", destination: "set-user.sh"
+end
